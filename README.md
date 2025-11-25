@@ -21,3 +21,4 @@ To address this issue, techniques such as data augmentation, dropout, and regula
 ## Tips
 
 - To work with the dataset, we need to create the following structure:
+    - <img src='dataset structure.PNG'>
